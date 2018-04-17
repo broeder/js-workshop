@@ -1,3 +1,5 @@
+Bonjour Paris !
+
 Welcome to the Javascript Workshop
 ==================================
 
